@@ -1,2 +1,2 @@
 console.error("HALP!")
-console.log("This is log.") 
+console.log("This is log.")
